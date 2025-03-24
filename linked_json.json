@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "X-ray Diffraction Dataset",
+    "description": "Crystallography dataset from ESRF beamline ID23",
+    "identifier": "10.1234/esrf.2025.001",
+    "creator": {
+      "@type": "Person",
+      "name": "Dr. Dmitrii Ivanov",
+      "affiliation": "ESRF"
+    },
+    "datePublished": "2025-03-24",
+    "keywords": ["X-ray diffraction", "Crystallography", "FAIR data"],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "distribution": {
+      "@type": "DataDownload",
+      "contentUrl": "https://data.esrf.fr/dataset/2025-001",
+      "encodingFormat": "application/json"
+    }
+  }
+  

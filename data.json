@@ -1,0 +1,20 @@
+{
+    "experiment_id": "ESRF-2025-001",
+    "beamline": "ID23",
+    "date": "2025-03-24",
+    "sample": {
+        "name": "Protein Crystal",
+        "type": "Biomolecular",
+        "temperature": -173,
+        "xray_wavelength": 0.98
+    },
+    "metadata": {
+        "doi": "10.1234/esrf.2025.001",
+        "facility": "ESRF",
+        "PI": "Dr. Dmitrii Ivanov"
+    },
+    "data": [
+        {"scan_id": 1, "intensity": 12000, "wavelength": 0.98},
+        {"scan_id": 2, "intensity": 13500, "wavelength": 1.00}
+    ]
+}

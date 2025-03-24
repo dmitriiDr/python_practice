@@ -1,0 +1,18 @@
+{
+    "experiment_id": "ESRF-2025-001",
+    "beamline": "ID11",
+    "researchers": [
+        {"name": "Dr. John Smith", "institution": "ESRF", "role": "Principal Investigator"},
+        {"name": "Dr. Alice Doe", "institution": "CNRS", "role": "Collaborator"}
+    ],
+    "sample": {
+        "name": "Perovskite Thin Film",
+        "composition": "CsPbBr3",
+        "preparation_date": "2025-03-15"
+    },
+    "measurements": [
+        {"timestamp": "2025-03-16T14:05:00", "temperature": 300, "intensity": 1200},
+        {"timestamp": "2025-03-16T14:10:00", "temperature": 310, "intensity": 1250},
+        {"timestamp": "2025-03-16T14:15:00", "temperature": 320, "intensity": 1300}
+    ]
+}
